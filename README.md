@@ -31,3 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![Proje Resmi](https://i.ibb.co/CJ8WZmn/2022-06-25-13-25-24.png)
+[Patika](https://www.patika.dev)
